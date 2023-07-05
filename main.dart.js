@@ -40521,7 +40521,7 @@ this.a.at=!0},
 $S:0}
 A.ajR.prototype={
 $1(a){var s=a.length
-if(s>=10)if(s<=200){s=A.cg("[^\u3131-\u314e\u314f-\u3163\uac00-\ud7a3a-zA-Z0-9,.?! ]",!0,!1)
+if(s>=10)if(s<=200){s=A.cg("[^\\u3131-\\u3163\\uAC00-\\uD7A3a-zA-Z0-9,.?! \\s]",!0,!1)
 s=s.b.test(a)}else s=!0
 else s=!0
 if(s)return"10~200\uc790 \uc785\ub825. \ud2b9\uc218\ubb38\uc790 \uc81c\ud55c"
