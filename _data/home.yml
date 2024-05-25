@@ -3,31 +3,17 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: trancer3
+    url: trancer3-mindfulness-hypnagogia
+    desc: mindfulness hypnagogia meditation
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: calmelatonin
+    url: calmelatonin-completely-at-ease
+    desc: powerful anxiety management
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: typeodd
+    url: typeodd-type-faster-than-anxiety
+    desc: typing practice game as meditation
 
 old_project_entries:
   - title: Soopr
