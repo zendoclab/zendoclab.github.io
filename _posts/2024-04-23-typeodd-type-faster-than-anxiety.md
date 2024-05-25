@@ -29,6 +29,6 @@ This is a game I created while researching how to implement a situation in an ap
 
 You can use this app by accessing the website or downloading and installing it on your mobile device or PC
 
-[typeodd: What is meditation?]: https://zendoclab.github.io/what-is-meditation
+[typeodd: What is meditation?]: https://zendoclab.github.io/typeodd-what-is-meditation
 [https://zendoclab.github.io/typeodd/]: https://zendoclab.github.io/typeodd/
 
