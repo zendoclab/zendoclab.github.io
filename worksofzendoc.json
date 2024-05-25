@@ -16,11 +16,5 @@
       "title": "typeodd",
       "description": "typing game as meditation",
       "link": "https://zendoclab.github.io/typeodd/"
-      },
-      {
-        "category": "medicine",
-        "title": "zendoc blog",
-        "description": "physician meditator developer",
-        "link": "https://zendoclab.github.io/"
-        }
+      }
 ]
