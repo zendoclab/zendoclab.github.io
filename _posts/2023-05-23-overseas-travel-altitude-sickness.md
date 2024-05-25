@@ -4,16 +4,16 @@ author: zendoc
 tags: [toughts]
 ---
 
-If DMT is an endogenous secretion that acts as a survival mechanism to preserve the brain from hypoxia before death, it may be closely related to chyene stokes respiration, which is the respiratory center's response to ongoing hypoxia.
+In Korea, there are not many altitudes of 2500 meters above sea level, so it doesn't matter, but overseas, even if you are not a mountain climber, you should be careful of altitude sickness when going to common tourist destinations such as Aspen in Colorado, Machu Picchu in Peru, and Tibet Plateau in the United States.
 
-This pre-death Cheyene Stokes breathing may be similar to hyperventilation in healthy individuals and the subsequent slow, tapered breathing for mechanical correction of CO2, with a significantly limited O2 supply.
+​Altitude sickness is caused by hypoxia, and like that terrible briquette gas poisoning, high-altitude cerebral edema can occur, leaving permanent impairment in brain function and death due to high-altitude pulmonary edema.
 
-However, it is difficult to reach and cannot withstand the DMT-induced level of hypoxia that occurs during chyene stokes breathing using artificial meditative breathing techniques.
+​Around 2000 meters above sea level, 22% experience altitude sickness, and from 3000 meters above sea level, more than 40%. Headache, vomiting, anorexia, fatigue, dizziness, and insomnia occur within 6 to 12 hours after ascending to high altitude, and most of them improve as they adapt to the high altitude, but some may change to fatal conditions.
 
-If vasovagal syncope is added to this, it may be possible to reach DMT-induced levels of hypoxia. Since vasovagal syncope lasts less than 1 minute, irreversible brain damage does not occur, but if the hypothesis is correct, DMT may be secreted into the cerebral bloodstream even for a short period of time (leaving aside the issue of rapid elimination by MAO).
+​From 2500 meters, you must go through a 24-hour acclimatization period every time you climb 600 meters to reduce altitude sickness.
 
-In addition, the body must be trained to adapt or adjust to the hypoxic environment as well as the effect of hyperventilation CO2 mechanical correction as a preparatory work before syncope occurs. 
+​Acetazolamide can be used as a preventive treatment, ibuprofen for headaches, dexamethasone for symptoms of high-altitude cerebral edema such as incoordination or altered consciousness, and beta2 such as ventolin for high-altitude pulmonary edema with dyspnea such as tachypnea, cough, hemoptysis, and fever. Use an antidote in an emergency
 
-Only then can you maintain and control your posture and consciousness after a moment of relaxation or fainting from the state of extreme psychological and physical tension during meditation, which is expressed by the so-called kundalini or the great heaven.
+​Altitude sickness should not be thought of as just suffering from headache, vomiting, and dizziness when climbing an alpine zone. It is important to know that the aftereffects are no different from a stroke, and that permanent damage to motor function, emotion control function, memory and cognitive function may occur.
 
-A single DMT meditation experience can completely change life itself, like a person coming back from death.
+​Even if you are young and have good physical strength, you must be prepared because the prognosis is unknown.

@@ -4,26 +4,40 @@ author: zendoc
 tags: [toughts]
 ---
 
-I watched a touching video of a parrot who danced with the parrot for months to help a parrot pluck out all its feathers because of depression, and the parrot enjoyed dancing, stopped plucking feathers, and finally grew abundantly and returned to a very joyful personality.
+Yoga apparel Lululemon, one of the hottest stocks in Corona City, founder Chip Wilson, originally went into the skateboarding, surfing, and snowboard apparel business, then moved on to yoga wear, hit the jackpot, went public with the company, walked down, and declared that the next leisure industry is meditation.
 
-​Anxiety is based on evidence that I am safe or can be safe (new thoughts and experiences) or memories, and from then on, anxiety is reduced through negative feedback (anxiety and anxiety disorders are different)
+​I meditated intensely for 10 years, from my early teens to my early 20s, and I have been studying meditation for more than 10 years since I became a doctor to interpret and diagram the amazing experiences of that time. To truly understand meditation, one must search and connect not only the medical physiology of human beings, but also biology, ecology, history, anthropology, and all the other materials that can be scraped together, so that we can understand little by little the context that comes from the smallest things.
 
-​Depression can help improve depression if you have evidence or memories that you are not getting worse or that you can get better (depression and depression are different)
+​My goal is to instantize meditation. Alternative therapies and, by extension, digital therapeutics.
 
-​The most primitive exercises for humans are walking and running, so in the 21st century, in the gym, we're still hanging on the treadmill the longest.
+​I think meditation is a practice that originated in India from the Stone Age to the Bronze Age, somewhere between smoking Cannabis (THC, CBD) and consuming ayahuasca (DMT, MAOi) in the Middle East. Until then, priests and shamans would host rituals and use drugs to produce enlightenment, or new perspectives and ideas, in order to break through the immediate problems of tribes or individuals.
 
-​Can a treadmill help with anxiety and depression? Of course it helps. First of all, exercising during the time of sunrise activates serotonin and strengthens melatonin at night to normalize biological rhythms, facilitating the regeneration of the body and brain throughout while sleeping. Walking and running are not unconscious acts, so they are consciously based on some purpose and plan, thus stimulating and awakening the prefrontal lobe, dopamine transmission system, hippocampus and limbic system.
+​Then, with the Iron Age, the use of writing, and empires, the decline of saman, the sense of community, and the use of dangerous drugs, rituals such as meditation and meditation emerged as more personal problem-solving methods, represented by scientists, meditators, and philosophers such as the Pythagoreans and Archimedes in Greece, Buddhas and disciples in India, and the Confessors of the Spring and Autumn Warring States period in China.
 
-​Just as taking antidepressants SSRIs, SNRIs, and NDRIs for a set period of time can help with constant exercise, just as they act on the aforementioned neuronal regeneration and neurotransmitters to treat depressive anxiety compulsions, etc.
+​Living things are not able to afford to eat and waste energy in useless places. (Running was socially reprehensible in the United States until the '50s, when the generation of parents who lived through the Great Depression eating and running around uselessly was socially reprehensible, until petroleum energy and internal combustion engine cars became popular.) If meditation has been going on for thousands of years, it is clearly not a waste of energy, but a purpose and methodology for surviving and prospering.
 
-​You can also try to take healing to a higher level by running (whether on a treadmill or on the grass in a park). There is a so-called Runner's High or Second Wind
+​Meditation can have the same purpose as treating PTSD in the U.S. military or treating ADHD in U.S. students.
 
-​When running, lactic acid accumulates in the leg muscles due to anaerobic metabolism, and for a more long-term run, the breath is up to the chin until it is converted to aerobic metabolism, and the heat is stiff all over the body, and I want to give up everything, but finally, as endorphins and anandamides are released, the blood vessels of the heart and lung muscles relax, and it is converted to aerobic metabolism, so running suddenly becomes comfortable and the pain disappears! It is also a positive thought.
+​Meditation follows various methodologies and steps to increase endogenous endocannabinoid receptor agonist anandamide brain/blood levels associated with THC/CBD in Cannabis.
 
-​Running exercises can become daily self-denial training through this process. Self-denial means that in a difficult situation (even if you make it on purpose), you somehow hold on and break through the gaps and break through. It's so hard when I start that I can't even imagine if I'll be able to make it to the end, but all animals and living beings, especially humans, have the inherent power to break through crisis situations (extra energy through endorphins and anandamides), so if you persist, you will eventually do it.
+1) Anti-anxiety effect, pain reduction
 
-​Second Wind (self-denial) through running exercise habits Furthermore, Runner's High may be an opportunity to maximize the effectiveness of exercise for anxiety and depression. It can act like a powerful herbal medicine for treatment-resistant depression, like esketamine or electroconvulsive therapy.
+2) Ventral tegmental area euphorbia with elevated dopamine from nucleus accumbens
 
-​So, what if you administer that good endorphin, anandamide, externally? Everyone knows very well what the consequences are if you habitually use narcotic analgesics, which are substitutes for endogenous endorphins, even though you do not have cancer pain. Likewise, there is no psychological conflict, but what happens if you habitually use hemp or THC, which are substitutes for endogenous anandamide, becomes a slacker waster. Living organisms, especially the human body, must change while maintaining homeostasis, and if homeostasis is unilaterally destroyed through exogenous substances or stimuli, it will become a waste or die. That's why the process of no pain, no gain is so important. That's why drugs are not used casually, but only when it is difficult enough to die or when it is absolutely necessary.
+3) Elevated DMT associated with ayahuasca due to vascular endothelial cell NO secretion and hypotensive shock through the central nervous system
 
-​So how can we program Second Wind/Runner's High through running to improve depressive anxiety? Heart rate tracking on smartwatches is the first key. In order to achieve Runner's High, it is not too fast a heart rate (aerobic-anaerobic-lactate concentration, body temperature), it is not a slow heart rate, and the optimal heart rate is already proposed. Second, it is a smartwatch heart rate linkage game that stimulates the prefrontal lobe, dopamine channels, and the hippocampus and limbic system's attention, plan execution, new memory formation, motivation and reward.
+4) Six months of changes in the dopamine and neurotransmitter systems that connect the prefrontal lobe, amygdala/hippocampus, and limbic system to a close eye on all of these processes, such as concentration, immersion, untiring energy, control, thinking, and uplifted mood.
+
+​The difference between meditation and cannabis inhalation
+
+Meditation - Self-control is possible. In the case of habit formation due to elevated dopamine, there is no problem if it is self-development. In particular, through attention (vipassana, mindfulness), the brain system related to attention deficit impulsivity can be drastically changed.
+
+Cannabis - Self-control can be impossible or difficult. The formation of the habit of smoking Cannabis is problematic. ADHD-related brain development of PFC-hippocampus-limbic system is not possible, and there may be loss such as apathy to everything and working memory loss.
+
+​Meditation, like Runner's High, is closely related to anandamide Does that make sense to continuously or continuously administer THC or FAAHi-based drugs that can elevate anandamide?
+
+​Just as if there is pain, endorphins, must be secreted and responded to from time to time, and if there is stress, anandamide is secreted and responded.
+
+​Rather, if opium or fentanyl is continuously administered externally because endorphins are good, dependence addiction occurs if used for a long time, even in cases of severe pain, if oxytocin is continuously administered to autistic patients to develop social skills, memory impairment occurs, and if drugs that continuously increase anandamide are used to treat neuroses such as pain control or depression, it suffers from abuse or side effects like recreational cannabis, or brain death occurred due to damage to brain cells in FAAHi drug experiments, so endorphins, oxytocin, or anandamide are good things that are not always good and must be used at a specific time and for a specific purpose without destroying the homeostasis of the human body.
+
+​Turning a patriarchal and thinking a good idea is not meditation. Meditation seems to be closer to the act of hunter-gatherers running around hunting

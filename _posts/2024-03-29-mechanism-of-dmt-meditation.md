@@ -4,28 +4,16 @@ author: zendoc
 tags: [works, meditation]
 ---
 
-Game Instructions 
-to be mindful, in flow, anxious, eager to solve a problem
+If DMT is an endogenous secretion that acts as a survival mechanism to preserve the brain from hypoxia before death, it may be closely related to chyene stokes respiration, which is the respiratory center's response to ongoing hypoxia.
 
-1. If you don't type quickly, the letters will become blurry
-2. If you type quickly enough for the shadow color to darken, the letters will become vivid again
-3. The faster you type, the longer your cursor shadow will be, but the higher your score
-4. If you make a typo, your score will be cut by almost half and cursor shadow will be reduced
-5. Use your memory and anxiety to type fast and accurately
+This pre-death Cheyene Stokes breathing may be similar to hyperventilation in healthy individuals and the subsequent slow, tapered breathing for mechanical correction of CO2, with a significantly limited O2 supply.
 
+However, it is difficult to reach and cannot withstand the DMT-induced level of hypoxia that occurs during chyene stokes breathing using artificial meditative breathing techniques.
 
-Developer's Intention
-typeodd: What is meditation? (zendoclab.blogspot.com)
+If vasovagal syncope is added to this, it may be possible to reach DMT-induced levels of hypoxia. Since vasovagal syncope lasts less than 1 minute, irreversible brain damage does not occur, but if the hypothesis is correct, DMT may be secreted into the cerebral bloodstream even for a short period of time (leaving aside the issue of rapid elimination by MAO).
 
-when you’re grappling with a challenging problem or endeavoring to create something new, try this serious typing practice game as meditation
-it is designed to help you move beyond immersion to inspiration
+In addition, the body must be trained to adapt or adjust to the hypoxic environment as well as the effect of hyperventilation CO2 mechanical correction as a preparatory work before syncope occurs. 
 
-sheer effort to overcome adversity is a way to eureka moment – this way reduces the brain's default mode network through immersion and builds up anandamide through egony, creating moments of problem solving and creativity. typeodd typing game add anxiety to the sheer effort to achieve creativity and determination. explore power beyond anxiety. type faster and get higher score as if you're surfing sea of anxiety
+Only then can you maintain and control your posture and consciousness after a moment of relaxation or fainting from the state of extreme psychological and physical tension during meditation, which is expressed by the so-called kundalini or the great heaven.
 
-This is a game I created while researching how to implement a situation in an app where I rack my brain to solve a problem and then my thoughts change and I have a Eureka moment, like in the episode of Archimedes' bathhouse. So, this app is a device designed to help you subconsciously change your mind about solving your worries while enjoying it as a game to change your mind for a while after worrying about something.
-
-typeodd
-[https://zendoclab.github.io/typeodd/]
-
-You can use this app by accessing the website or downloading and installing it on your mobile device or PC
-
+A single DMT meditation experience can completely change life itself, like a person coming back from death.

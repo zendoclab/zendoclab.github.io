@@ -4,16 +4,20 @@ author: zendoc
 tags: [toughts]
 ---
 
-In Korea, there are not many altitudes of 2500 meters above sea level, so it doesn't matter, but overseas, even if you are not a mountain climber, you should be careful of altitude sickness when going to common tourist destinations such as Aspen in Colorado, Machu Picchu in Peru, and Tibet Plateau in the United States.
+Before creating a smartwatch app that says treadmill running exercises not only improve physical fitness but also meditate at the same time, let's summarize the hypothesis.
 
-​Altitude sickness is caused by hypoxia, and like that terrible briquette gas poisoning, high-altitude cerebral edema can occur, leaving permanent impairment in brain function and death due to high-altitude pulmonary edema.
+When running a long distance such as a marathon with a maximum heart rate of 70~85% depending on age, Second Wind / Runner's High may come, but in addition to changes in anaerobic / aerobic metabolism, the secretion of endorphins corresponding to endogenous morphine in response to physical pain, and the secretion of anandamide, which corresponds to the endogenous cannabis component THC, in response to psychological anxiety, are a phenomenon in which new vitality and mood appear after relieving the pain of running.
 
-​Around 2000 meters above sea level, 22% experience altitude sickness, and from 3000 meters above sea level, more than 40%. Headache, vomiting, anorexia, fatigue, dizziness, and insomnia occur within 6 to 12 hours after ascending to high altitude, and most of them improve as they adapt to the high altitude, but some may change to fatal conditions.
+Long-distance running, such as a marathon, causes second winds to appear as you move from anaerobic to aerobic metabolism, and physically it is hard enough to die, psychological conflicts about whether to keep going, and the accumulated anxiety that you may die if you keep going, can lead to Runner's High.
 
-​From 2500 meters, you must go through a 24-hour acclimatization period every time you climb 600 meters to reduce altitude sickness.
+Can we create a smartwatch app that can reduce the distance and time to Second Wind/Runner's High when running?
 
-​Acetazolamide can be used as a preventive treatment, ibuprofen for headaches, dexamethasone for symptoms of high-altitude cerebral edema such as incoordination or altered consciousness, and beta2 such as ventolin for high-altitude pulmonary edema with dyspnea such as tachypnea, cough, hemoptysis, and fever. Use an antidote in an emergency
+In addition to checking and notifying the heart rate to maintain more than 70% of the maximum heart rate in order to maintain physical pain such as lactic acid accumulation and body temperature rise, imposing a mind game that can increase psychological anxiety can increase psychological pressure and make Runner's High come faster than just running without thinking.
 
-​Altitude sickness should not be thought of as just suffering from headache, vomiting, and dizziness when climbing an alpine zone. It is important to know that the aftereffects are no different from a stroke, and that permanent damage to motor function, emotion control function, memory and cognitive function may occur.
+What advantages do you want Runner's High to pursue? Is it not dangerous to strain the body so much for a brief solace of endorphins? Wouldn't it be great if there was a way (smartwatch app) to train your body and increase your anxiety/strut response by stopping by a sports club in the morning and running a treadmill for tens of minutes instead of running tens of kilos?
 
-​Even if you are young and have good physical strength, you must be prepared because the prognosis is unknown.
+Among the systems by which the body responds to stress are the cortisol hormone system and the anandamide endocanavoid. Cortisol is a short-term fire to support a fighter in the struggle flight response to stress, and anandamide increases anxiety tension as the amygdala becomes hyperactive when stressed, and in severe cases, the body freezes and the head becomes white.
+
+So why not use cannabis or anandamide-boosting FAAHi drugs? Cannabis has actually been used a lot to reduce psychological pressure, tension, and stage fright in artists, but high concentrations of caravonoids (THC) from the outside, which destroy the body's homeostasis, and long-term exposure can disrupt the cortisol/anandamide balance of the stress response system, greatly weakening the ability to respond in the upcoming stressful situation, and even the risk of brain cell destruction, so it should only be used in limited settings such as medical conditions and medical interventions.
+
+The treadmill treadmill runner's high anandamide app using the smartwatch app seeks the ability to upgrade not only physical health but also stress/anxiety response and problem-solving skills without these side effects.
