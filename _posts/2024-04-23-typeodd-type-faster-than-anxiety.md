@@ -5,7 +5,7 @@ tags: [works, meditation]
 ---
 
 ## Game Instructions
-### to be mindful, in flow, anxious, eager to solve a problem
+to be mindful, in flow, anxious, eager to solve a problem<br>
 
 1. If you don't type quickly, the letters will become blurry
 2. If you type quickly enough for the shadow color to darken, the letters will become vivid again
