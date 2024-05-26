@@ -33,6 +33,8 @@ theme_config:
     title_blog: Blog
     title_old_projects: Old Projects
 
+google_analytics: G-CMK28KPYC8
+
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
