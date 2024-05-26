@@ -6,7 +6,13 @@ description: > # description of the site (multiple lines allowed)
   
 permalink: /:slug
 
-google_analytics: G-CMK28KPYC8
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-CMK28KPYC8"
+    anonymize_ip         : # true, false (default)
 
 favicon: "./images/favicon/favicon.ico" # relative path to site's favicon
 
