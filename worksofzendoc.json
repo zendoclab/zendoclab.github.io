@@ -10,11 +10,17 @@
     "title": "calmelatonin",
     "description": "powerful anxiety management",
     "link": "https://zendoclab.github.io/calmelatonin/"
+  },
+  {
+     "category": "meditation",
+     "title": "typeodd",
+     "description": "typing game as meditation",
+     "link": "https://zendoclab.github.io/typeodd/"
+  },
+  {
+     "category": "medicine",
+    "title": "RTD",
+    "description": "Rate of Thyroid Decline",
+    "link": "https://zendoclab.github.io/rtd/"
     },
-    {
-      "category": "meditation",
-      "title": "typeodd",
-      "description": "typing game as meditation",
-      "link": "https://zendoclab.github.io/typeodd/"
-      }
 ]
