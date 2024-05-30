@@ -3,6 +3,10 @@ navbar_entries:
     url: blog
 
 project_entries:
+  - title: RTD
+    url: rtd-rate-of-thyroid-decline
+    desc: plateau during weight control
+
   - title: trancer3
     url: trancer3-mindfulness-hypnagogia
     desc: mindfulness hypnagogia meditation
