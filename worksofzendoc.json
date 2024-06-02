@@ -25,7 +25,7 @@
   },
   {
      "category": "medicine",
-    "title": "drGPT",
+    "title": "DrGPT",
     "description": "AI-generated diagnosis and specialty (korean only)",
     "link": "https://zendoclab.github.io/drgpt/"
   }
