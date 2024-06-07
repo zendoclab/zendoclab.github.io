@@ -25,4 +25,32 @@ tags: [works, meditation]
 2. The content you enter is stored only in your device's web browser local storage (which can be deleted) and is not associated with external databases
 
 
+### keyword
+Idea Management Tools
+Creative Brainstorming Apps
+Thought Organizer Software
+Digital Notepad for Ideas
+Personal Idea Dashboard
+Solo Brainstorming Platform
+Innovative Thought Keeper
+Mind Mapping Web Apps
+Idea Capture Solutions
+Creative Process Helpers
+Thought Collection Apps
+Idea Generation Workspace
+Personal Creativity Assistant
+Digital Idea Vault
+Brainwave Documentation Tool
+Idea Organization System
+Creative Project Planning
+Solo Ideation Tools
+Thought Clustering Software
+Idea Storage and Retrieval
+Creative Workflow Enhancers
+Mindful Idea Tracking
+Brainstorm Facilitation App
+Idea Sorting and Prioritization
+Innovative Idea Flow Management
+
+
 [​https://zendoclab.github.io/solilo]: ​https://zendoclab.github.io/solilo
