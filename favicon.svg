@@ -1,0 +1,10 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="16" cy="16" r="16" fill="#1e3a8a"/>
+  
+  <!-- Z letter stylized -->
+  <path d="M8 10h16v2L14 22h10v2H8v-2l10-10H8z" fill="#ffffff"/>
+  
+  <!-- VR Glasses icon overlay -->
+  <rect x="12" y="14" width="8" height="4" rx="1" fill="#2563eb" opacity="0.8"/>
+</svg>
