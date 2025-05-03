@@ -1,0 +1,41 @@
+# .github/workflows/update-bluesky-post.yml
+name: Update Bluesky Post
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # 12시간마다 실행 (0시, 12시 UTC)
+  workflow_dispatch: # 수동으로도 실행 가능
+
+jobs:
+  update-bluesky-post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install @atproto/api date-fns
+
+      - name: Fetch latest Bluesky post
+        id: fetch-post
+        run: |
+          node .github/scripts/fetch-bluesky-post.js
+        env:
+          BLUESKY_USERNAME: 'zendoclab.bsky.social'
+          BLUESKY_EMAIL: ${{ secrets.BLUESKY_EMAIL }}
+          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+
+      - name: Update Contact.svelte
+        run: node .github/scripts/update-contact-svelte.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add src/lib/components/Contact.svelte
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update latest Bluesky post" && git push)
