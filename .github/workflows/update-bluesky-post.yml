@@ -24,8 +24,14 @@ jobs:
       
       - name: Debug directory structure
         run: |
-          echo "Current directory structure:"
+          echo "Current directory structure for Svelte files:"
           find . -type f -name "*.svelte" | sort
+          echo "Content of src directory (if exists):"
+          ls -la src/ || echo "src directory not found"
+          echo "Content of src/lib directory (if exists):"
+          ls -la src/lib/ || echo "src/lib directory not found"
+          echo "Content of src/lib/components directory (if exists):"
+          ls -la src/lib/components/ || echo "src/lib/components directory not found"
       
       - name: Ensure directories exist
         run: |
@@ -39,50 +45,44 @@ jobs:
           BLUESKY_EMAIL: ${{ secrets.BLUESKY_EMAIL }}
           BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
       
-      - name: Find Contact.svelte file
-        id: find-file
+      - name: Find and update Contact.svelte
         run: |
-          # Using a more robust find command with exact path
-          if [ -f "src/lib/components/Contact.svelte" ]; then
-            echo "Found Contact.svelte at predefined path"
-            echo "contact_file=src/lib/components/Contact.svelte" >> $GITHUB_OUTPUT
-          else
-            # Fallback to search
-            CONTACT_FILE=$(find . -name "Contact.svelte" -type f | head -n 1)
-            if [ -z "$CONTACT_FILE" ]; then
-              echo "Contact.svelte file not found!"
-              exit 1
-            else
-              echo "Found Contact.svelte at $CONTACT_FILE"
-              echo "contact_file=$CONTACT_FILE" >> $GITHUB_OUTPUT
-            fi
+          # First try the specific path we know
+          CONTACT_FILE="src/lib/components/Contact.svelte"
+          
+          # If file doesn't exist at expected location, search for it
+          if [ ! -f "$CONTACT_FILE" ]; then
+            echo "Contact.svelte not found at expected location, searching..."
+            CONTACT_FILE=$(find . -name "Contact.svelte" -type f | grep -v "node_modules" | head -n 1)
           fi
-      
-      - name: Update Contact.svelte
-        run: |
-          # 환경 변수로 파일 경로 전달
-          export CONTACT_FILE="${{ steps.find-file.outputs.contact_file }}"
-          node .github/scripts/update-contact-svelte.js
+          
+          if [ -z "$CONTACT_FILE" ]; then
+            echo "Contact.svelte file not found anywhere in the repository!"
+            exit 1
+          else
+            echo "Found Contact.svelte at $CONTACT_FILE"
+            export CONTACT_FILE="$CONTACT_FILE"
+            node .github/scripts/update-contact-svelte.js
+          fi
       
       - name: Commit and push if changed
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # Contact.svelte 파일 경로 가져오기
-          CONTACT_FILE="${{ steps.find-file.outputs.contact_file }}"
+          # Use find to locate the Contact.svelte file again
+          CONTACT_FILE=$(find . -name "Contact.svelte" -type f | grep -v "node_modules" | head -n 1)
           
-          # 파일이 존재하는지 확인
-          if [ -f "$CONTACT_FILE" ]; then
-            git add "$CONTACT_FILE"
-            # 변경 사항이 있는지 확인
-            if git diff --staged --quiet; then
-              echo "No changes to commit"
-            else
-              git commit -m "Update latest Bluesky post"
-              git push
-            fi
-          else
-            echo "Error: Contact.svelte file not found at $CONTACT_FILE!"
+          if [ -z "$CONTACT_FILE" ]; then
+            echo "Error: Contact.svelte file not found!"
             exit 1
+          fi
+          
+          git add "$CONTACT_FILE"
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update latest Bluesky post"
+            git push
           fi
