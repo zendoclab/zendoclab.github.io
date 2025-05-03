@@ -56,10 +56,10 @@ async function fetchLatestPost() {
 
     fs.writeFileSync('.github/tmp/latest-post.json', JSON.stringify(postData, null, 2));
     
-    // GitHub Actions 환경 변수로 설정
-    console.log(`::set-output name=post_text::${postText}`);
-    console.log(`::set-output name=published_at::${publishedAt}`);
-    console.log(`::set-output name=post_url::${postUrl}`);
+    // 새로운 환경 파일 방식으로 출력 변수 설정 (set-output 대신)
+    fs.appendFileSync(process.env.GITHUB_OUTPUT || '', `post_text=${postText}\n`);
+    fs.appendFileSync(process.env.GITHUB_OUTPUT || '', `published_at=${publishedAt}\n`);
+    fs.appendFileSync(process.env.GITHUB_OUTPUT || '', `post_url=${postUrl}\n`);
 
     return postData;
   } catch (error) {
@@ -80,4 +80,7 @@ if (!fs.existsSync('.github/tmp')) {
 }
 
 // 실행
-fetchLatestPost();
+fetchLatestPost().catch(error => {
+  console.error('Unhandled error in fetchLatestPost:', error);
+  process.exit(1);
+});
