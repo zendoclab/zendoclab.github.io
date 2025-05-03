@@ -85,3 +85,4 @@ function updateContactSvelte() {
 
 // 실행
 updateContactSvelte();
+console.log('Environment variable CONTACT_FILE:', CONTACT_SVELTE_PATH);
