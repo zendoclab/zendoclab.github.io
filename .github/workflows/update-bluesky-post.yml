@@ -12,6 +12,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          # fetch-depth 설정을 통해 Git 관련 오류 방지
+          fetch-depth: 0
+          # GitHub 토큰 명시적 설정
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -19,10 +24,16 @@ jobs:
           node-version: '18'
 
       - name: Install dependencies
-        run: npm install @atproto/api date-fns
+        run: |
+          npm install @atproto/api date-fns
+
+      # 디렉토리 생성 확인
+      - name: Ensure directories exist
+        run: |
+          mkdir -p .github/tmp
+          mkdir -p src/lib/components
 
       - name: Fetch latest Bluesky post
-        id: fetch-post
         run: |
           node .github/scripts/fetch-bluesky-post.js
         env:
@@ -31,11 +42,25 @@ jobs:
           BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
 
       - name: Update Contact.svelte
-        run: node .github/scripts/update-contact-svelte.js
+        run: |
+          node .github/scripts/update-contact-svelte.js
 
       - name: Commit and push if changed
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add src/lib/components/Contact.svelte
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update latest Bluesky post" && git push)
+          
+          # Contact.svelte 파일이 존재하는지 확인
+          if [ -f "src/lib/components/Contact.svelte" ]; then
+            git add src/lib/components/Contact.svelte
+            # 변경 사항이 있는지 확인
+            if git diff --staged --quiet; then
+              echo "No changes to commit"
+            else
+              git commit -m "Update latest Bluesky post"
+              git push
+            fi
+          else
+            echo "Error: Contact.svelte file not found!"
+            exit 1
+          fi
