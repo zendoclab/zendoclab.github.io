@@ -141,6 +141,43 @@ body {
   padding: 24px;
 }
 
+.post-list-section {
+  display: grid;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.post-row a {
+  display: block;
+  border: 1px solid var(--zn-line);
+  border-radius: 10px;
+  padding: 18px 20px;
+  color: var(--zn-ink);
+  background: rgba(255, 255, 255, 0.42);
+  text-decoration: none;
+}
+
+.post-row a:hover {
+  border-color: rgba(11, 127, 122, 0.48);
+}
+
+.post-row span {
+  color: var(--zn-accent);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.post-row h2 {
+  margin: 6px 0 6px;
+  font-size: 22px;
+  line-height: 1.18;
+}
+
+.post-row p {
+  margin: 0;
+  color: var(--zn-muted);
+}
+
 .site-footer {
   border-top: 1px solid var(--zn-line);
   color: var(--zn-muted);
