@@ -1,0 +1,7 @@
+title: cording.ai TightLoop notes
+description: Notes on cording.ai ideas, implementations, validation, residual-error control, and TightLoop.
+theme: minima
+url: "https://zendoclab.github.io"
+author: cording.ai
+plugins:
+  - jekyll-feed
