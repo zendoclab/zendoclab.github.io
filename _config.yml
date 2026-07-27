@@ -3,6 +3,7 @@ description: Notes on cording.ai ideas, implementations, validation, residual-er
 theme: minima
 url: "https://zendoclab.github.io"
 author: cording.ai
+timezone: Asia/Seoul
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
