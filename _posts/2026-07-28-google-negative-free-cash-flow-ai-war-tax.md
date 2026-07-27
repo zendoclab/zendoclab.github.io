@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google’s Negative Free Cash Flow: The War Tax of America’s AI Religious Civil War"
+date: 2026-07-28 00:00:00 +0900
 excerpt: "Alphabet’s first-ever quarter of negative free cash flow was not merely an engineering bill. It was a war tax imposed by America’s AI religious civil war."
 categories: [ai, alphabet, google, openai, anthropic, technology-policy]
 ---
